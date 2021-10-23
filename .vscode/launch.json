@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-TuringApiApplication<turing-api>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.turingapi.turingapi.TuringApiApplication",
+            "projectName": "turing-api",
+            "args": ""
+        }
+    ]
+}
